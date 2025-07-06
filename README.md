@@ -35,3 +35,11 @@ Place the following in the **same folder**:
 
 ```bash
 python3 autosteg.py
+You'll be prompted to enter:
+- The image file path  
+- The wordlist path  
+- (Optional) Output file name
+
+The script will attempt extraction using the wordlist, and notify you if the password is found.
+
+💡 Example Wordlist Format (wordlist.txt):
