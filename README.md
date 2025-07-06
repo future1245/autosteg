@@ -44,3 +44,17 @@ You'll be prompted to enter:
 The script will attempt extraction using the wordlist, and notify you if the password is found.
 
 💡 Example Wordlist Format (wordlist.txt):
+
+123456
+password
+letmein
+secretpass
+admin123
+
+📄 License
+This project is licensed under the MIT License.
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+
