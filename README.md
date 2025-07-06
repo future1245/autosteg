@@ -1,4 +1,4 @@
-# AutoStego 🔍  
+# AutoStegonography🔍  
 **Auto Steganography Detector and Decoder**
 
 AutoStego is a Python tool that automates the detection and decoding of hidden messages inside image files using [Steghide](https://steghide.sourceforge.net/). It also supports optional brute-force password cracking using a wordlist.
