@@ -35,6 +35,7 @@ Place the following in the **same folder**:
 
 ```bash
 python3 autosteg.py
+```
 You'll be prompted to enter:
 - The image file path  
 - The wordlist path  
