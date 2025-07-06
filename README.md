@@ -45,11 +45,11 @@ The script will attempt extraction using the wordlist, and notify you if the pas
 
 💡 Example Wordlist Format (wordlist.txt):
 
-123456
-password
-letmein
-secretpass
-admin123
+123456,
+password,
+letmein,
+secretpass,
+admin123,
 
 📄 License
 This project is licensed under the MIT License.
