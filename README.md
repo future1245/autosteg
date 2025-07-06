@@ -1,6 +1,3 @@
-# autosteg
-Python tool to detect, decode, and brute-force hidden messages in images using Steghide.
-
 # AutoStego 🔍  
 **Auto Steganography Detector and Decoder**
 
@@ -28,7 +25,7 @@ AutoStego is a Python tool that automates the detection and decoding of hidden m
 ### 2. Files Needed
 
 Place the following in the **same folder**:
-- `auto2.py` – the main Python script
+- `autosteg.py` – the main Python script
 - `wordlist.txt` – a list of possible passwords (one per line)
 - Any image files you want to test (e.g., `image.jpg`)
 
@@ -37,5 +34,4 @@ Place the following in the **same folder**:
 ### 3. Run the Script
 
 ```bash
-python3 auto2.py
-
+python3 autosteg.py
